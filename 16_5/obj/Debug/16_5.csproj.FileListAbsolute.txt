@@ -1,0 +1,7 @@
+D:\Основы алгоритмизации\16_5\bin\Debug\16_5.exe.config
+D:\Основы алгоритмизации\16_5\bin\Debug\16_5.exe
+D:\Основы алгоритмизации\16_5\bin\Debug\16_5.pdb
+D:\Основы алгоритмизации\16_5\obj\Debug\16_5.csproj.AssemblyReference.cache
+D:\Основы алгоритмизации\16_5\obj\Debug\16_5.csproj.CoreCompileInputs.cache
+D:\Основы алгоритмизации\16_5\obj\Debug\16_5.exe
+D:\Основы алгоритмизации\16_5\obj\Debug\16_5.pdb
