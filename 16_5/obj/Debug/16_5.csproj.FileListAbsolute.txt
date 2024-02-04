@@ -5,3 +5,11 @@ D:\Основы алгоритмизации\16_5\obj\Debug\16_5.csproj.Assembly
 D:\Основы алгоритмизации\16_5\obj\Debug\16_5.csproj.CoreCompileInputs.cache
 D:\Основы алгоритмизации\16_5\obj\Debug\16_5.exe
 D:\Основы алгоритмизации\16_5\obj\Debug\16_5.pdb
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\bin\Debug\16_5.exe.config
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\bin\Debug\16_5.exe
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\bin\Debug\16_5.pdb
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\obj\Debug\16_5.csproj.AssemblyReference.cache
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\obj\Debug\16_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\obj\Debug\16_5.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\obj\Debug\16_5.exe
+C:\Users\Kirill\Downloads\16_5-main\16_5-main\16_5\obj\Debug\16_5.pdb

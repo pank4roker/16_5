@@ -11,7 +11,8 @@ namespace _16_5
     {
         static void Main(string[] args)
         {
-            Write("Количество посещений:");
+            //Task 1
+            /*Write("Количество посещений:");
             int n = Convert.ToInt32(ReadLine());
             Web_site[] website=new Web_site[n];
             for (int i = 0; i < website.Length;i++)
@@ -42,6 +43,28 @@ namespace _16_5
                 {
                     elem.ShowInfo();
                 }
+            }*/
+            //Task2
+            House[] houses = new House[3];
+            for(int i =0;i<houses.Length;i++)
+            {
+                Write("Введите дату включения: ");
+                DateTime dateon = DateTime.Parse(ReadLine());
+                Write("Введите время включения: ");
+                DateTime timeon = DateTime.Parse(ReadLine());
+                Write("Введите темпертатурный режим (Х или Г): ");
+                string tempmode = ReadLine();
+                Write("Введите температуру: ");
+                int tempair = int.Parse(ReadLine());
+                houses[i] = new House(dateon, timeon, tempmode, tempair);
+            }
+            foreach (var house in houses)
+            {
+                house.OutPut();
+            }
+            foreach (var house in houses)
+            {
+                house.Mode();
             }
             ReadLine();
         }
